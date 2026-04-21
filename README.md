@@ -115,7 +115,7 @@ Customer_Intelligence_And_Revenue_Analytics_Dashboard/
 
 ## 📸 Dashboard Preview 
 
-> *(Upload a screenshot of your Power BI dashboard and paste it here)*
+![Project dashboard]([https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654](http://github.com/Aditya24Kashyap/Customer_Intelligence_And_Revenue_Analytics_Dashboard/blob/main/Customer%20Intelligence%20And%20Revenue%20Analytics%20Dashboard%20(1).png))
 
 ---
 
