@@ -113,6 +113,12 @@ Customer_Intelligence_And_Revenue_Analytics_Dashboard/
 
 ---
 
+## 📸 Dashboard Preview 
+
+> *(Upload a screenshot of your Power BI dashboard and paste it here)*
+
+---
+
 ## ▶️ How to Run the Project
 
 ```bash
