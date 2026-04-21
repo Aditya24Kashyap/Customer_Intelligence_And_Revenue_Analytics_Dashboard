@@ -122,9 +122,9 @@ cd Customer_Intelligence_And_Revenue_Analytics_Dashboard
 
 Open:
 
-* `Customer_Analysis.ipynb` (Jupyter Notebook)
+* `Customer_Intelligence_And_Revenue_Analytics_Dashboard.ipynb` (Jupyter Notebook)
 * Generate: `final_customer_data.csv`
-* Open `dashboard.pbix` in Power BI
+* Open `Customer Intelligence and Revenue Analytics Dashboard.pbix` in Power BI
 
 ---
 
