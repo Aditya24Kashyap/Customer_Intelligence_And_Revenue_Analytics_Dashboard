@@ -115,8 +115,6 @@ Customer_Intelligence_And_Revenue_Analytics_Dashboard/
 
 ## 📸 Dashboard Preview 
 
-## 📸 Dashboard Preview
-
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Aditya24Kashyap/Customer_Intelligence_And_Revenue_Analytics_Dashboard/main/Customer%20Intelligence%20And%20Revenue%20Analytics%20Dashboard%20(1).png)
 
 ---
