@@ -40,7 +40,7 @@ Customer_Intelligence_And_Revenue_Analytics_Dashboard/
 ├── final_customer_data.csv
 ├── Customer_Analysis.ipynb
 ├── customer_behavior_sql_queries.sql
-├── dashboard.pbix
+├── Customer Intelligence and Revenue Analytics Dashboard.pbix
 └── README.md
 ```
 
